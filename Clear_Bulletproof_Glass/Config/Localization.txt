@@ -1,0 +1,8 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+glassClearBulletproofBlockVariantHelper,blocks,block,,,Clear Bulletproof Glass Block,,,,,,,,,,,,,
+glassClearBulletproofCTRPlate,blocks,block,,,Clear Bulletproof Glass Plate Centered,,,,,,,,,,,,,
+glassClearBulletproofPlate,blocks,block,,,Clear Bulletproof Glass Plate,,,,,,,,,,,,,
+glassClearBulletproofBlock,blocks,block,,,Clear Bulletproof Glass Block,,,,,,,,,,,,,
+glassClearBulletproofRamp,blocks,block,,,Clear Bulletproof Glass Ramp,,,,,,,,,,,,,
+glassClearBulletproofPlateCurved,blocks,block,,,Clear Bulletproof Glass Curved Plate,,,,,,,,,,,,,
